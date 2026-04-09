@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-public class HW1 _114403547
-
-{
+public class HW1_114403547{
 	public static void main(String[] args) {
 	    Scanner scanner = new Scanner(System.in);
 	    
